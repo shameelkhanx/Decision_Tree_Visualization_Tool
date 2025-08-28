@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Streamlit 1.48.0
 matplotlib 3.10.0
 scikit-learn 1.6.1
+=======
+Streamlit 
+matplotlib 
+scikit-learn 
+>>>>>>> 6d78177 (new requirement_file)
